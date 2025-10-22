@@ -1,5 +1,6 @@
 ---
 title: "HW 06 - Money in US politics"
+author: "Riley Martindale"
 output: 
   tufte::tufte_html:
     css: ../hw.css
